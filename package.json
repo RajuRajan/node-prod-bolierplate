@@ -1,10 +1,10 @@
 {
-  "name": "@n2s/server",
+  "name": "node-boilerplate",
   "version": "0.0.1",
   "main": "src/index.js",
   "private": true,
   "license": "ISC",
-  "description": "Nykaa Notification Service",
+  "description": "",
   "scripts": {
     "start": "nodemon --exec babel-node .",
     "debug": "nodemon --exec babel-node --inspect .",
