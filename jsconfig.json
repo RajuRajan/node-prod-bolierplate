@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "#src/*": ["src/*"],
+      "#db/*": ["src/db/*"],
+      "#jobs/*": ["src/jobs/*"],
+      "#api/*": ["src/api/*"],
+      "#utils/*": ["src/utils/*"],
+      "#routes/*": ["src/routes/*"],
+      "#controllers/*": ["src/controllers/*"],
+      "#middlewares/*": ["src/middlewares/*"],
+      "#sequelize/*": ["sequelize/*"]
+    }
+  },
+  "exclude": ["node_modules"]
+}
